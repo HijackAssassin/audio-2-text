@@ -1,6 +1,6 @@
 @echo off
 rem ==========================================================================
-rem  Audio2Text's download. Website\"archive this build.bat" calls:
+rem  Audio2Text's download. Website\"2 archive this build.bat" calls:
 rem      Code\package-app.bat <version> "<project folder>"
 rem  ->  Website\Audio-2-Text-V<version>.rar: Audio2Text.exe + _internal at the top of the .rar (the same layout as
 rem  every download before; Build\cuda is never in Website\Audio2Text\ - KEEP_OUT in project.cfg).
